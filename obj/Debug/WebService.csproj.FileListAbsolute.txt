@@ -1,0 +1,9 @@
+F:\Workspaces\VisualStudio\Visual Studio 2010\Project Test\WebServiceTest\UsingWebServiceLikeService\WebService\WebService\bin\WebService.dll
+F:\Workspaces\VisualStudio\Visual Studio 2010\Project Test\WebServiceTest\UsingWebServiceLikeService\WebService\WebService\bin\WebService.pdb
+F:\Workspaces\VisualStudio\Visual Studio 2010\Project Test\WebServiceTest\UsingWebServiceLikeService\WebService\WebService\obj\Debug\WebService.dll
+F:\Workspaces\VisualStudio\Visual Studio 2010\Project Test\WebServiceTest\UsingWebServiceLikeService\WebService\WebService\obj\Debug\WebService.pdb
+E:\Test Project\WebServiceTest\WebServiceTest\UsingWebServiceLikeService\WebService\WebService\bin\WebService.dll
+E:\Test Project\WebServiceTest\WebServiceTest\UsingWebServiceLikeService\WebService\WebService\bin\WebService.pdb
+E:\Test Project\WebServiceTest\WebServiceTest\UsingWebServiceLikeService\WebService\WebService\obj\Debug\WebService.dll
+E:\Test Project\WebServiceTest\WebServiceTest\UsingWebServiceLikeService\WebService\WebService\obj\Debug\WebService.pdb
+E:\Test Project\WebServiceTest\WebServiceTest\UsingWebServiceLikeService\WebService\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache
